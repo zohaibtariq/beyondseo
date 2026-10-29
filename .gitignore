@@ -9,8 +9,6 @@ __pycache__/
 htmlcov/
 build/
 dist/
-.env
-.env.*
 !.env.example
 runs/
 output/
@@ -21,7 +19,6 @@ crawl.lock
 .DS_Store
 Thumbs.db
 .idea/
-.vscode/
 
 changes/
 private/
@@ -40,3 +37,5 @@ private/
 /transcripts/
 *.har
 *.trace.zip
+config.bat
+node_modules
